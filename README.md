@@ -55,7 +55,7 @@
 
 |  地区   | B怪1  |  B怪2  |
 |  :--:  | :--:  | :--:  |
-| 库尔札斯西部高地 | <figure> <figcaption>克鲁泽</figcaption> <img src="./images/The_Fringes_-_Ouzelum.jpg" width = "600" align=center/> </figure>  | <figure> <figcaption>阿尔提克</figcaption> <img src="./images/The_Fringes_-_Shadow-dweller_Yamini.jpg" width = "600" align=center/> </figure>
+| 库尔札斯西部高地 | <figure> <figcaption>克鲁泽</figcaption> <img src="./images/Coerthas_Western_Highlands_-_Kreutzet.jpg" width = "600" align=center/> </figure>  | <figure> <figcaption>阿尔提克</figcaption> <img src="./images/Coerthas_Western_Highlands_-_Alteci.jpg" width = "600" align=center/> </figure>
 | 阿巴拉提亚云海 | <figure> <figcaption>飞舞翼 萨努瓦力</figcaption> <img src="./images/The_Sea_of_Clouds_-_Sanu_Vali_of_Dancing_Wings.jpg" width = "600" align=center/> </figure> | <figure> <figcaption>斯奎克</figcaption> <img src="./images/The_Sea_of_Clouds_-_Squonk.jpg" width = "600" align=center/> </figure> 
 | 龙堡参天高地 | <figure> <figcaption>骨颌彗星兵</figcaption> <img src="./images/The_Dravanian_Forelands_-_Gnath_Cometdrone.jpg" width = "600" align=center/> </figure>  | <figure> <figcaption>提克斯塔</figcaption> <img src="./images/The_Dravanian_Forelands_-_Thextera.jpg" width = "600" align=center/> </figure>
 | 翻云雾海 | <figure> <figcaption>惊慌稻草龙</figcaption> <img src="./images/The_Churning_Mists_-_The_Scarecrow.jpg" width = "600" align=center/> </figure> | <figure> <figcaption>斯奇塔利斯</figcaption> <img src="./images/The_Churning_Mists_-_Scitalis.jpg" width = "600" align=center/> </figure> 
